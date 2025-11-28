@@ -6,7 +6,13 @@
 QUBIC Requested:** 86,636,066,565.267046 QUBIC** \
 Valuation Used:** $0.0000007848 per QUBIC
 
-**Wallet Address: **ZYAGKBKGHGAFUCWYDLMTWIGQAYODVDJTCACSHSBYTERJQLPHEVXGJRNAIGNK
+**Wallet Address: ZYAGKBKGHGAFUCWYDLMTWIGQAYODVDJTCACSHSBYTERJQLPHEVXGJRNAIGNK
+
+** Please vote: **
+
+Option 0: No, do not approve
+
+Option 1: Yes, approve the budget of 86,636,066,565.267046 QUBIC**
 
 # 1. Objective
 
