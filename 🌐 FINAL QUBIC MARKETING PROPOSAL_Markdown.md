@@ -1,6 +1,6 @@
 # QUBIC MARKETING PROPOSAL
 
-**Term:** December 1, 2024 - February 1, 2025 \
+**Term:** December 1, 2025 - February 1, 2026 \
 **Submitted by:** Stephanie Nickolich | Head of Marketing & Growth \
 **Total Requested:** $68,004.5294 USD** \
 QUBIC Requested:** 86,636,066,565.267046 QUBIC** \
