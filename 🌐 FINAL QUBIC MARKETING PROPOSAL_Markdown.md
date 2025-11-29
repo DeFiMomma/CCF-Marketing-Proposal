@@ -42,15 +42,10 @@ Rebuild Whitepaper v2.0 (full technical spec)
 ***3. Current Constraints**
 
 - Token price volatility reduces runway
-
 - Discord ecosystem requires structure & moderation
-
 - Tools required premium upgrades, exceeding initial estimates
-
 - Team lacked runway continuity due to 2-month cycles
-
 - AMA, livestream & automation systems still in optimization phase
-
 - Several core analytics systems still pending (Looker, Metricool full rollout)
 
 **Full Constraints Document: 
@@ -170,6 +165,9 @@ Outstanding Compensation (from prior term): $5,000
 - Academy V2 built and deployed
 - Mining Academy content completed 
 - Full website redesign completed
+
+<img width="830" height="209" alt="Screenshot 2025-11-29 at 12 13 43 AM" src="https://github.com/user-attachments/assets/6b3037c0-fcd0-487f-b1d4-0291f4b80cb8" />
+
 
 ### **Major Deliverables Supporting These KPIs**
 
