@@ -24,17 +24,13 @@ To stabilize, expand, and professionalize Qubic’s marketing ecosystem by stren
 # 2. Goals for This Term
 
 - Execute consistent, measurable weekly marketing outputs
-
 - Expand CRM, content distribution, and automated funnels
-
-- Improve livestream & AMA quality + viewership \
-Rebuild Whitepaper v2.0 (full technical spec)
-
+- Improve livestream & AMA quality + viewership 
+- Rebuild Whitepaper v2.0 (full technical spec)
 - Optimize website performance and conversion
-
 - Increase community stability and onboarding experience
-
 - Strengthen data infrastructure for 2026 growth
+- Create a community contributing marketing think tank, to create a more positive, unified community environment, while being open to new ideas and angles in which the marketing team may be able to implement. 
 
 **Full Goals Document: \
 ** 👉 *[Strategic Goals & Roadmap](https://docs.google.com/document/d/1_vLMtSVR_Bb4w7sRGUPL1woGR9ivqb95PL4Z1dAJnK8/edit?usp=sharing)** 
