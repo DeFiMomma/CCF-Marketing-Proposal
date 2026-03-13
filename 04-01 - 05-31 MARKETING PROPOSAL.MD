@@ -112,7 +112,7 @@ Marketing now functions as an operational layer of the Qubic ecosystem — coord
 
 # Budget Transparency
 
-A detailed breakdown of the marketing budget can be viewed here:
+A detailed breakdown of the 02/01 - 04/01 marketing budget can be viewed here:
 
 **[QUBIC MARKETING BUDGET](https://docs.google.com/spreadsheets/d/19dg6BSNd_XDoR_dvgQGMpzwnglvV6UyWcDNit6B1uFg/edit?usp=sharing)**
 
