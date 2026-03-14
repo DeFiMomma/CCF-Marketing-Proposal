@@ -22,7 +22,7 @@ The QUBIC amount was calculated using a valuation of **0.0000007 USD per QUBIC.*
 
 **Option 0:** ❌ No, I don't want  
 
-**Option 1:** ✅ Yes, approve the budget of **20,465,116,279 QUBIC**
+**Option 1:** ✅ Yes, approve the budget of **25,142,857,143 QUBIC**
 
 ---
 
@@ -93,4 +93,4 @@ By funding these external initiatives, the Qubic ecosystem can ensure the announ
 
 **Option 0:** ❌ No, I don't want  
 
-**Option 1:** ✅ Yes, approve the budget of **20,465,116,279 QUBIC**
+**Option 1:** ✅ Yes, approve the budget of **25,142,857,143 QUBIC**
