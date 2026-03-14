@@ -9,12 +9,12 @@
 **Submitted by:** Stephanie Nickolich — Head of Marketing & Growth  
 **Total Requested:** $17,600 USD Equivalent  
 
-Send **20,465,116,279 QUBIC** to wallet  
+Send **25,142,857,143 QUBIC** to wallet  
 
 Wallet Address:  
 ZYAGKBKGHGAFUCWYDLMTWIGQAYODVDJTCACSHSBYTERJQLPHEVXGJRNAIGNK  
 
-The QUBIC amount was calculated using a valuation of **0.00000086 USD per QUBIC.**
+The QUBIC amount was calculated using a valuation of **0.0000007 USD per QUBIC.**
 
 ---
 
