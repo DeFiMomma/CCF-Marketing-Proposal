@@ -1,17 +1,17 @@
 # 🌐 QUBIC MARKETING CCF FUNDING PROPOSAL
 
-**Term:** April 1, 2026 - May 30, 2026  
+**Term:** April 1, 2026 - June 30, 2026  
 **Submitted by:** Stephanie Nickolich — Head of Marketing & Growth  
-**Total Requested:** 58,200 USD Equivalent  
+**Total Requested:** 87,300 USD Equivalent  
 
-Send **67,674,418,605 QUBIC** to wallet  
+Send **97,000,000,000 QUBIC** to wallet  
 
 Wallet Address:  
 ZYAGKBKGHGAFUCWYDLMTWIGQAYODVDJTCACSHSBYTERJQLPHEVXGJRNAIGNK  
 
-to support Qubic Marketing operations during the period **April 1, 2026 - May 30, 2026.**
+to support Qubic Marketing operations during the period **April 1, 2026 - June 30, 2026.**
 
-The QUBIC amount was calculated using a valuation of **0.00000086 USD per QUBIC.**
+The QUBIC amount was calculated using a valuation of **0.0000009 USD per QUBIC.**
 
 ---
 
@@ -41,8 +41,8 @@ March 25 : Vote closes at turn of epoch
 
 | Item | Amount |
 |-----|------|
-| Total Requested | $58,200 |
-| Duration | April 1 – May 30 |
+| Total Requested | $87,300 |
+| Duration | April 1 – June 30 |
 | Includes | Salaries, tools, paid media, press release distribution, AMA coordination, livestream production, content production, CRM systems, automation, website development, and ecosystem coordination |
 
 This proposal requests continued **Community Contribution Fund (CCF)** support for Qubic Marketing operations.
@@ -84,6 +84,7 @@ February 2026 delivered the **strongest month of marketing performance in Qubic 
 • FAQs page completely redesigned and optimized for SEO  
 • 15+ SEO blog articles created  
 • 4 guest articles published  
+• All DOGE pre-launch, launch and post-launch plans designed and in execution. 
 
 ---
 
@@ -123,13 +124,14 @@ A detailed breakdown of the 02/01 - 04/01 marketing budget can be viewed here:
 | Role | Monthly Cost | Responsibilities |
 |----|----|----|
 | Head of Marketing & Growth | $10,000 | Strategic direction, execution oversight, analytics, AMA coordination, paid media management |
-| Business Development Lead | $3,000 | Partnership outreach and ecosystem coordination |
+| Business Development Lead | $3,000 | Partnership outreach, exchange coordination, business development activations |
 | Head of Content & Design | $2,000 | Creative direction and visual production |
-| Blog, Newsletter & Distribution Manager | $1,000 | Blog production and newsletter distribution |
+| Blog, Newsletter & Social Distribution Manager | $1,000 | Blog production and newsletter distribution |
 | Web Developer | $2,400 | Website updates and integrations |
 | Marketing Automation & SEO | $1,500 | CRM workflows, automation systems and SEO |
-| Video Creator | $1,500 | Video production supporting ecosystem announcements |
+| Video Creator | $1,500 | Video production supporting ecosystem announcements, updates and news |
 
+Total: Monthly Team Salaries: $21,400 
 ---
 
 # Marketing Operations Scope
@@ -142,28 +144,28 @@ Marketing operations include:
 • Content production  
 • SEO optimization  
 • CRM and automation systems  
-• Livestream production and promotion  
-• Website development support  
-• Ecosystem communications coordination  
+• PR coordination, negotiation and placement 
+• Website development support (for all teams)  
+• Ecosystem communications coordination, events and pending partnerships  
 • Early-stage business development support  
 
 ---
 
 # Budget Request
 
-Team (2 Months)  
-$21,400 × 2 = **$42,800**
+Team (3 Months)  
+$21,400 × 3 = **$64,200**
 
 Tools (2 Months)  
-$3,000 × 2 = **$6,000**
+$3,000 × 3 = **$9,000**
 
 Paid Media (2 Months)  
-$3,500 × 2 = **$7,000**
+$3,500 × 3 = **$10,500**
 
 Press Release Distribution (2 Months)  
-$1,200 × 2 = **$2,400**
+$1,200 × 3 = **$3,600**
 
-**TOTAL REQUESTED: $58,200**
+**TOTAL REQUESTED: $87,300**
 
 ---
 
@@ -178,3 +180,5 @@ The previous term demonstrates measurable proof-of-work:
 This proposal extends the marketing systems now in place while supporting major ecosystem initiatives, including **DOGE mining on Qubic**.
 
 Approval of this proposal allows Qubic to maintain momentum and continue expanding its presence across the broader **AI and decentralized compute ecosystem**.
+
+Please note that if we have excess funds at the end of our team, they will be returned to CCF or kept in the marketing fund for future terms, whatever is preferred. 
