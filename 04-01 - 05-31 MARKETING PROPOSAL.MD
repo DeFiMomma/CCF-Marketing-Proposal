@@ -182,3 +182,10 @@ This proposal extends the marketing systems now in place while supporting major 
 Approval of this proposal allows Qubic to maintain momentum and continue expanding its presence across the broader **AI and decentralized compute ecosystem**.
 
 Please note that if we have excess funds at the end of our team, they will be returned to CCF or kept in the marketing fund for future terms, whatever is preferred. 
+
+--- 
+
+🗳️ Available Options
+Option 0: ❌ No, I don't want
+
+Option 1: ✅ Yes, approve the budget of 97,000,000,000 QUBIC
