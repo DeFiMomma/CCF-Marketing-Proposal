@@ -25,15 +25,15 @@ The QUBIC amount was calculated using a valuation of **0.0000009 USD per QUBIC.*
 
 # Roadmap
 
-March 17 – March 18 : Public discussion of proposal  
+March 26 : Public discussion of proposal  
 
-March 18 : Refinement  
+March 27 : Refinement  
 
-March 19 : Proposal goes up for vote to Computors  
+March 28 : Proposal goes up for vote to Computors  
 
-March 25 : Vote closes at turn of epoch  
+April 1 : Vote closes at turn of epoch  
 
-**Proposal End Time:** May 30
+**Proposal End Time:** June 30, 2026
 
 ---
 
@@ -43,7 +43,7 @@ March 25 : Vote closes at turn of epoch
 |-----|------|
 | Total Requested | $88,200 |
 | Duration | April 1 – June 30 |
-| Includes | Salaries, tools, paid media, press release distribution, AMA coordination, livestream production, content production, CRM systems, automation, website development, and ecosystem coordination |
+| Includes | Salaries, tools, paid media, press release distribution, AMA coordination, livestream production, content production, video creation, CRM systems, automation, website development, and ecosystem coordination |
 
 This proposal requests continued **Community Contribution Fund (CCF)** support for Qubic Marketing operations.
 
@@ -102,13 +102,13 @@ February 2026 delivered the **strongest month of marketing performance in Qubic 
 
 # Transparency & Reporting
 
-Progress updates and marketing analytics will continue to be shared with the community through periodic updates, dashboards, and public reports.
+Progress updates and marketing analytics will continue to be shared with the community through bi-monthly AMAs, metrics dashboards, and public reports.
 
 ---
 
 # Marketing as Ecosystem Infrastructure
 
-Marketing now functions as an operational layer of the Qubic ecosystem — coordinating communications, visibility, developer outreach, ecosystem announcements, and cross-team messaging.
+Marketing now functions as an operational layer of the Qubic ecosystem — coordinating communications, visibility, growth strategy, partnership outreach, ecosystem announcements, and cross-team messaging.
 
 ---
 
