@@ -2,7 +2,7 @@
 
 **Term:** April 1, 2026 - June 30, 2026  
 **Submitted by:** Stephanie Nickolich — Head of Marketing & Growth  
-**Total Requested:** 87,300 USD Equivalent  
+**Total Requested:** 88,200 USD Equivalent  
 
 Send **97,000,000,000 QUBIC** to wallet  
 
@@ -19,7 +19,7 @@ The QUBIC amount was calculated using a valuation of **0.0000009 USD per QUBIC.*
 
 **Option 0:** ❌ No, I don't want  
 
-**Option 1:** ✅ Yes, approve the budget of **97,000,000,000 QUBIC**
+**Option 1:** ✅ Yes, approve the budget of **98,000,000,000 QUBIC**
 
 ---
 
@@ -41,7 +41,7 @@ March 25 : Vote closes at turn of epoch
 
 | Item | Amount |
 |-----|------|
-| Total Requested | $87,300 |
+| Total Requested | $88,200 |
 | Duration | April 1 – June 30 |
 | Includes | Salaries, tools, paid media, press release distribution, AMA coordination, livestream production, content production, CRM systems, automation, website development, and ecosystem coordination |
 
@@ -80,6 +80,7 @@ February 2026 delivered the **strongest month of marketing performance in Qubic 
 • #1 most voted event on CoinMarketCal — Dogecoin mining on Qubic  
 • #1 most searched AI coin on CoinMarketCap  
 • #2 top AI project based on social activity (CryptoDep / LunarCrush)  
+• Doge mining pre-launch press release picked up by dozens of crypto news outlets  
 • Community Events voting page designed and deployed  
 • FAQs page completely redesigned and optimized for SEO  
 • 15+ SEO blog articles created  
@@ -93,7 +94,7 @@ February 2026 delivered the **strongest month of marketing performance in Qubic 
 • Maintain consistent monthly marketing impressions across organic and paid channels  
 • Continue amplifying and growing organic social reach across key platforms  
 • Continue expanding the SEO content library with new technical and ecosystem blog articles  
-• Support visibility for the DOGE mining launch and related ecosystem initiatives  
+• Support visibility for the post DOGE mining launch and related ecosystem initiatives  
 • Continue improving AMA participation and livestream visibility across Qubic channels  
 • Expand external media placements for major ecosystem developments  
 
@@ -126,12 +127,13 @@ A detailed breakdown of the 02/01 - 04/01 marketing budget can be viewed here:
 | Head of Marketing & Growth | $10,000 | Strategic direction, execution oversight, analytics, AMA coordination, paid media management |
 | Business Development Lead | $3,000 | Partnership outreach, exchange coordination, business development activations |
 | Head of Content & Design | $2,000 | Creative direction and visual production |
+| 2 Part Time Design Assistants | $800 | Manage daily social post design creation + short explainer videos
 | Blog, Newsletter & Social Distribution Manager | $1,000 | Blog production and newsletter distribution |
 | Web Developer | $2,400 | Website updates and integrations |
 | Marketing Automation & SEO | $1,500 | CRM workflows, automation systems and SEO |
-| Video Creator | $1,500 | Video production supporting ecosystem announcements, updates and news |
+| Video Creator | $1000 | Video production supporting ecosystem announcements, updates and news |
 
-Total: Monthly Team Salaries: $21,400 
+Total: Monthly Team Salaries: $21,700 
 ---
 
 # Marketing Operations Scope
@@ -154,7 +156,7 @@ Marketing operations include:
 # Budget Request
 
 Team (3 Months)  
-$21,400 × 3 = **$64,200**
+$21,700 × 3 = **$65,100**
 
 Tools (2 Months)  
 $3,000 × 3 = **$9,000**
@@ -165,7 +167,7 @@ $3,500 × 3 = **$10,500**
 Press Release Distribution (2 Months)  
 $1,200 × 3 = **$3,600**
 
-**TOTAL REQUESTED: $87,300**
+**TOTAL REQUESTED: $88,200**
 
 ---
 
@@ -188,4 +190,4 @@ Please note that if we have excess funds at the end of our team, they will be re
 🗳️ Available Options
 Option 0: ❌ No, I don't want
 
-Option 1: ✅ Yes, approve the budget of 97,000,000,000 QUBIC
+Option 1: ✅ Yes, approve the budget of 98,000,000,000 QUBIC
