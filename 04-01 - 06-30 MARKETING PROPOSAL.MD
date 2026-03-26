@@ -4,7 +4,7 @@
 **Submitted by:** Stephanie Nickolich — Head of Marketing & Growth  
 **Total Requested:** 88,200 USD Equivalent  
 
-Send **97,000,000,000 QUBIC** to wallet  
+Send **98,000,000,000 QUBIC** to wallet  
 
 Wallet Address:  
 ZYAGKBKGHGAFUCWYDLMTWIGQAYODVDJTCACSHSBYTERJQLPHEVXGJRNAIGNK  
