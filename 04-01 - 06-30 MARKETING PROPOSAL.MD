@@ -158,13 +158,13 @@ Marketing operations include:
 Team (3 Months)  
 $21,700 × 3 = **$65,100**
 
-Tools (2 Months)  
+Tools (3 Months)  
 $3,000 × 3 = **$9,000**
 
-Paid Media (2 Months)  
+Paid Media (3 Months)  
 $3,500 × 3 = **$10,500**
 
-Press Release Distribution (2 Months)  
+Press Release Distribution (3 Months)  
 $1,200 × 3 = **$3,600**
 
 **TOTAL REQUESTED: $88,200**
