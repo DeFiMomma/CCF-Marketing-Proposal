@@ -3,7 +3,9 @@
 **Term Covered:** April 1, 2026 - June 30, 2026
 
 **Reimbursement For:** Head of Marketing & Growth Salary (June 2026) + June Paid Media + Outstanding Expenses
+
 **Submitted by:** Stephanie Nickolich — Head of Marketing & Growth
+
 **Total Requested:** 14,000 USD Equivalent
 
 Send **31,818,181,818 QUBIC** to wallet
