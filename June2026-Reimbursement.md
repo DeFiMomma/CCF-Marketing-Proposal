@@ -29,7 +29,7 @@ The QUBIC amount was calculated using a valuation of **0.00000044 USD per QUBIC*
 
 This proposal requests reimbursement of marketing expenses that were budgeted and earned during the approved **April 1 - June 30, 2026** funding cycle but were not covered by the original disbursement due to QUBIC price depreciation over the term.
 
-The original cycle was funded in QUBIC. The token lost roughly **50% of its value** during the proposal period. The marketing team responded by cutting roles and reducing scope to protect runway, while maintaining brand consistency, output volume, and content quality. Despite those cuts, the funding fell short of covering committed obligations. The Head of Marketing & Growth salary for **June 2026 was not paid**, and the **June paid media spend** was not covered.
+The original cycle was funded in QUBIC. The token lost roughly **50% of its value** during the proposal period. The marketing team responded by cutting roles and prioritizing scope to protect runway, while maintaining brand consistency, output volume, and content quality. Despite those cuts, the funding fell short of covering committed obligations. The Head of Marketing & Growth salary for **June 2026 was not paid**, and the **June paid media spend** was not covered.
 
 This proposal closes that gap.
 
@@ -45,7 +45,7 @@ In response, the team proactively reduced spend:
 
 - The **Web Developer** role was cut for June.
 - The **Marketing Automation & SEO** role was cut for June.
-- **Both Design Assistant** roles were cut for June.
+- **One Design Assistant** role was cut for June.
 - The **Video Creator** scope was reduced.
 
 These cuts brought the operating budget down from the requested **$88,200** to **$74,600**. Even after those reductions, the funded QUBIC only stretched to cover **$61,600** in realized USD value because of price depreciation.
@@ -59,7 +59,7 @@ These cuts brought the operating budget down from the requested **$88,200** to *
 | Original CCF Request (Apr 1 - Jun 30) | $88,200 |
 | Operating Budget After Role Cuts | $74,600 |
 | USD Value Actually Covered After Depreciation | $61,600 |
-| **Coverage Shortfall** | **$13,000** |
+| **Coverage Shortfall** | **$13,600** |
 
 The full line-item budget, including the uncovered June salary and June paid media entries, can be viewed here:
 
@@ -85,8 +85,8 @@ The Head of Marketing salary for June 1, 2026 was scheduled and earned but never
 
 The cuts above were absorbed without reducing marketing output. During this term the team continued to deliver:
 
-- Consistent organic and paid social output across X and LinkedIn
-- Continued SEO content production and blog publishing
+- Consistent organic and paid social output across X, LinkedIn, and Discord
+- Continued content production and blog publishing
 - AMA coordination and livestream production
 - Coverage and visibility support for major ecosystem initiatives
 
