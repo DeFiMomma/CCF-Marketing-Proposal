@@ -63,7 +63,7 @@ These cuts brought the operating budget down from the requested **$88,200** to *
 
 The full line-item budget, including the uncovered June salary and June paid media entries, can be viewed here:
 
-**[QUBIC MARKETING BUDGET](https://docs.google.com/spreadsheets/d/19dg6BSNd_XDoR_dvgQGMpzwnglvV6UyWcDNit6B1uFg/edit?usp=sharing)**
+**[QUBIC MARKETING BUDGET](https://docs.google.com/spreadsheets/d/1gxFu8ZFLTh0IBk8rAJysFbuOwHQvVIVosw_EZFhxMbg/edit?usp=sharing)**
 
 ---
 
